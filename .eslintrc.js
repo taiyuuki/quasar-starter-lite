@@ -23,6 +23,9 @@ module.exports = {
       ['error', {
         'ignore': [
           'uno.css',
+          '~pages',
+          'virtual:generated-layouts',
+          'virtual:generated-pages',
         ],
       }],
   },
